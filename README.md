@@ -11,4 +11,4 @@ But let's talk about the talk. It was my first time speaking at a public event a
 
 And you know what? I loved being a speaker! I was definitely not the smoothest out there, but I didn't freeze up or shake with a trembling voice either, so I am still calling it a win. A big thank you to David for the public speaking coaching and to all our colleagues who helped us prepare. Can't wait for the next one!
 
-For those who asked, here is a link to our presentation!!
+For those who asked, here is a [link](https://github.com/cynthiatreger/talk-devoxx2024/blob/main/Devoxx2024%20-%20C'est%20pas%20le%20reseau%20ca%20ping%20Marty.pdf) to our presentation.
