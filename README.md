@@ -1,7 +1,7 @@
 # Networking for developers: our talk at Devoxx2024
 
 
-I just got back from Devoxx, a tech event for developers. It is held every year in different locations around the world, including Paris. And it was awesome! There were keynote speakers, workshops and discussions led by experts in the tech industry. Of course, there were also the usual booths and exhibitors, and Microsoft along with GitHub were running one of them.
+I just got back from [Devoxx](https://www.devoxx.fr/about-us/), a tech event for developers held every year in different locations around the world, including Paris. And it was awesome! There were keynote speakers, workshops and discussions led by experts in the tech industry. Of course, there were also the usual booths and exhibitors, and Microsoft along with GitHub were running one of them.
 
 I'm a network engineer, so you might be wondering why I was at a developer event. To be honest, I was wondering the same thing when my colleague [David](https://github.com/davidsntg) suggested we submit a Call For Paper for Devoxx. We thought our talk on networking for developers might be a long shot, but it got selected! Probably because of the Back to the Future reference in the title (The closely it could translate to is "Ping is working, the network is fine Marty!")
 
